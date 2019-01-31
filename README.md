@@ -1,6 +1,6 @@
 # JavaAdvance
 ```
-const namaSiswa = 2;
+class main = 2;
 
 ```
 
